@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57ada86e5fb4ac6aee9d8433108c254, type: 3}
+  m_Name: IT_Pistol
+  m_EditorClassIdentifier: 
+  name: Pistol
+  description: Improves the power of all the shooter balls in your party
+  itemSprite: {fileID: 1789716502, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  titleColor: {r: 0.2980392, g: 0.5391722, b: 1, a: 1}
+  backgroundColor: {r: 0.0745098, g: 0.13431373, b: 0.25, a: 1}
+  descriptionColor: {r: 0.65, g: 0.76927376, b: 1, a: 1}
+  ballClass: 3
+  multiplier: 0.5

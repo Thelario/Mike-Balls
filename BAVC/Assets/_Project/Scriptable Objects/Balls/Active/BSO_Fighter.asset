@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9900ea586afbf4c4a84c423a49850faa, type: 3}
+  m_Name: BSO_Fighter
+  m_EditorClassIdentifier: 
+  ballName: Fighter
+  ballDescription: Punches an enemy and throws it away
+  ballPurchaseCost: 3
+  ballActive: 1
+  ballType: 13
+  ballClass: 1
+  ballColor: {r: 1, g: 0.2980392, b: 0.8523666, a: 1}
+  ballFrontColor: {r: 0.5, g: 0.1490196, b: 0.4254901, a: 1}
+  ballActiveColor: {r: 1, g: 0.65, b: 0.9256982, a: 1}
+  ballCostBackColor: {r: 0.25, g: 0.0745098, b: 0.21274506, a: 1}
+  ballPrefab: {fileID: 7601229842897926963, guid: 7e7abbdad3c265945b8f1618cdb23e9d, type: 3}
+  ballSprite: {fileID: -949194329, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  canDealDamage: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9900ea586afbf4c4a84c423a49850faa, type: 3}
+  m_Name: BSO_Sniper
+  m_EditorClassIdentifier: 
+  ballName: Sniper
+  ballDescription: Improves all the shooter balls in your party
+  ballPurchaseCost: 3
+  ballActive: 0
+  ballType: 15
+  ballClass: 0
+  ballColor: {r: 0.5850626, g: 0.16078429, b: 0.8, a: 1}
+  ballFrontColor: {r: 0.29215685, g: 0.080392145, b: 0.4, a: 1}
+  ballActiveColor: {r: 0.6920245, g: 0.48, b: 0.8, a: 1}
+  ballCostBackColor: {r: 0.14607842, g: 0.040196072, b: 0.2, a: 1}
+  ballPrefab: {fileID: 8020990295625869604, guid: a54ef9f2e83d062478efddc35fefb9b5, type: 3}
+  ballSprite: {fileID: -604546391, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  canDealDamage: 0

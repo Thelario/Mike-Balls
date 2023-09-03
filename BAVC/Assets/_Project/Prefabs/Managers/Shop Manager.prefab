@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4765892077714983260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4765892077714983235}
+  - component: {fileID: 4765892077714983234}
+  m_Layer: 0
+  m_Name: Shop Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4765892077714983235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4765892077714983260}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4765892077714983234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4765892077714983260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c53ef35e555b08f449f951efe4af5dcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontDestroyOnLoad: 0
+  rerollButton: {fileID: 0}
+  fightButton: {fileID: 0}
+  shopItemPrefab: {fileID: 8575522624368880577, guid: 6b91801d0ece7724f9584b25ba754146, type: 3}
+  shopItemsParent: {fileID: 0}
+  goldText: {fileID: 0}
+  rerollText: {fileID: 0}
+  balls:
+  - {fileID: 11400000, guid: 4f1a69af860aa8744bd929c7ec547ab3, type: 2}
+  - {fileID: 11400000, guid: 76a5ed49fb992c245807eb8b91ca7761, type: 2}
+  - {fileID: 11400000, guid: 4c169e1ac20b89a4fb5cc845952528b5, type: 2}
+  - {fileID: 11400000, guid: b17b9a70c8ed06943b14f2eb63f84167, type: 2}
+  - {fileID: 11400000, guid: 225ab78317e237443a0eeb91d36fe0b5, type: 2}
+  - {fileID: 11400000, guid: a5757ea351674d74abfe900bf79e4180, type: 2}
+  - {fileID: 11400000, guid: bd0b630d72302304fafb88012ac8854c, type: 2}
+  - {fileID: 11400000, guid: df9d8f7b9e8c95a4f8b48427e044f91f, type: 2}
+  - {fileID: 11400000, guid: cff78087ebd145548bfab1e748220d3b, type: 2}
+  - {fileID: 11400000, guid: 8a366cf460b027548a693e0cae82781d, type: 2}
+  - {fileID: 11400000, guid: 9854ce04b24ee8b4e9e6add12105852a, type: 2}
+  - {fileID: 11400000, guid: 9cbe4745d06fe6349ba4fbb6eb8577ba, type: 2}
+  - {fileID: 11400000, guid: 17c192ee6edc9e041995ca9192feda55, type: 2}
+  - {fileID: 11400000, guid: f190ca63dba2fb44b92bf991bfa5640b, type: 2}
+  - {fileID: 11400000, guid: 3472a5ec54402f442949ee989901ade7, type: 2}
+  - {fileID: 11400000, guid: 4c15fab113944ca4a9ed36d331871d8e, type: 2}
+  - {fileID: 11400000, guid: fed16320f8afe0445ac7a68eea6e6796, type: 2}
+  - {fileID: 11400000, guid: 51af7d9cd8b2ed04b90d7561d2f63fab, type: 2}
+  - {fileID: 11400000, guid: 6da4c77c8c56e514e8cd2d3afb5993f9, type: 2}

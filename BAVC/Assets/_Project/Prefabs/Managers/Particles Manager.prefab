@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7899784261976828283
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7899784261976828282}
+  - component: {fileID: 7899784261976828277}
+  m_Layer: 0
+  m_Name: Particles Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7899784261976828282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7899784261976828283}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7899784261976828277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7899784261976828283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7410b8a782624a72aaa635f8499ca187, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontDestroyOnLoad: 0
+  particles:
+  - particleType: 3
+    particlePrefab: {fileID: 8051810128372774916, guid: 393d6250f647308428dd30b674efc912, type: 3}
+    timeToDestroy: 0.15
+  - particleType: 4
+    particlePrefab: {fileID: 4808170188469264867, guid: 10e87803405f24d44af7d81287b1aa40, type: 3}
+    timeToDestroy: 0.15
+  - particleType: 5
+    particlePrefab: {fileID: 7900995717768312301, guid: c821a2ccdfd156c4687d3fc12b5af40e, type: 3}
+    timeToDestroy: 0.15
+  - particleType: 0
+    particlePrefab: {fileID: 2018105283264478429, guid: 5c96b893bacdff3428749015767b11b3, type: 3}
+    timeToDestroy: 0.5
+  - particleType: 1
+    particlePrefab: {fileID: 2323750593853252571, guid: b92532149a231fc4ca987d148ff5d38a, type: 3}
+    timeToDestroy: 0.5
+  - particleType: 2
+    particlePrefab: {fileID: 6744035267894201535, guid: 1ebb343d1543dd84cb414b9c9722f417, type: 3}
+    timeToDestroy: 0.5
+  - particleType: 6
+    particlePrefab: {fileID: 2566606993314972371, guid: f677b0f30273ad847965570fd47cb716, type: 3}
+    timeToDestroy: 1

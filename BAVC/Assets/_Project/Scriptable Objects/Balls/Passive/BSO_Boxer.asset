@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9900ea586afbf4c4a84c423a49850faa, type: 3}
+  m_Name: BSO_Boxer
+  m_EditorClassIdentifier: 
+  ballName: Boxer
+  ballDescription: Improves all the physical balls in your party
+  ballPurchaseCost: 3
+  ballActive: 0
+  ballType: 14
+  ballClass: 0
+  ballColor: {r: 1, g: 0.8930083, b: 0.2980392, a: 1}
+  ballFrontColor: {r: 0.6, g: 0.5364706, b: 0.17882353, a: 1}
+  ballActiveColor: {r: 1, g: 0.9472067, b: 0.65, a: 1}
+  ballCostBackColor: {r: 0.25, g: 0.22352941, b: 0.0745098, a: 1}
+  ballPrefab: {fileID: 7000759157403748960, guid: e1253fad4888b4544844fdaf33c8d29d, type: 3}
+  ballSprite: {fileID: -213499556, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  canDealDamage: 0

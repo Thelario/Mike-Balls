@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9900ea586afbf4c4a84c423a49850faa, type: 3}
+  m_Name: BSO_Banker
+  m_EditorClassIdentifier: 
+  ballName: Banker
+  ballDescription: Increases the amount of gold availabe each level
+  ballPurchaseCost: 4
+  ballActive: 0
+  ballType: 7
+  ballClass: 0
+  ballColor: {r: 1, g: 0.77831113, b: 0.2980392, a: 1}
+  ballFrontColor: {r: 0.5, g: 0.38823527, b: 0.1490196, a: 1}
+  ballActiveColor: {r: 1, g: 0.8885475, b: 0.65, a: 1}
+  ballCostBackColor: {r: 0.25, g: 0.19411764, b: 0.0745098, a: 1}
+  ballPrefab: {fileID: 189807799452056558, guid: f19a6a426d522d945a8a3de2089c47d6, type: 3}
+  ballSprite: {fileID: -1844124142, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  canDealDamage: 0

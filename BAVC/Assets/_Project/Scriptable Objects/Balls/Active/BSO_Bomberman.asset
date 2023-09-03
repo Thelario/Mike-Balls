@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9900ea586afbf4c4a84c423a49850faa, type: 3}
+  m_Name: BSO_Bomberman
+  m_EditorClassIdentifier: 
+  ballName: Bomberman
+  ballDescription: Explodes when it hits an enemy
+  ballPurchaseCost: 4
+  ballActive: 1
+  ballType: 2
+  ballClass: 4
+  ballColor: {r: 0.2980392, g: 1, b: 0.53857374, a: 1}
+  ballFrontColor: {r: 0.1490196, g: 0.5, b: 0.26862746, a: 1}
+  ballActiveColor: {r: 0.65, g: 1, b: 0.76927376, a: 1}
+  ballCostBackColor: {r: 0.0745098, g: 0.25, b: 0.13431373, a: 1}
+  ballPrefab: {fileID: 5633292732009224307, guid: f33b0a66701855d4f946c80590f399a5, type: 3}
+  ballSprite: {fileID: 359159355, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  canDealDamage: 1

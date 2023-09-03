@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9900ea586afbf4c4a84c423a49850faa, type: 3}
+  m_Name: BSO_Terrorist
+  m_EditorClassIdentifier: 
+  ballName: Terrorist
+  ballDescription: Improves all the explosive balls in your party
+  ballPurchaseCost: 3
+  ballActive: 0
+  ballType: 16
+  ballClass: 0
+  ballColor: {r: 0.35831794, g: 1, b: 0.2980392, a: 1}
+  ballFrontColor: {r: 0.17843136, g: 0.5, b: 0.1490196, a: 1}
+  ballActiveColor: {r: 0.67932963, g: 1, b: 0.65, a: 1}
+  ballCostBackColor: {r: 0.08921568, g: 0.25, b: 0.0745098, a: 1}
+  ballPrefab: {fileID: 3723552348769157434, guid: 43d15e3817e48c54c8a08b05c95fbad1, type: 3}
+  ballSprite: {fileID: -1292260320, guid: 092d139af93f8424db7ba390951b25f0, type: 3}
+  canDealDamage: 0

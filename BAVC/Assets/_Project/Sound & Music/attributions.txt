@@ -1,0 +1,16 @@
+- Explosion 1 sound by InspectorJ
+- Explosion 2 sound by thehorriblejoke
+- Hit1 sound by timgormly
+- Damage sound by n_audioman
+- Cannon sound by DeVern
+- Ball level up sound by rhodesmas
+- Purchase sound by Zott820
+- Fire sound by DWOBoyle
+- Fire ball sound by guillermochicasonido
+- Error sound by AlienXXX
+- Laser sound by Leszek_Szary
+- Sword swipe sound by DragonTrance
+- Punch sound by simmfoc
+- Hit2 sound by jeckkech
+- Shoot sound by Davidsraba
+- Player hit sound by EminYILDIRIM
