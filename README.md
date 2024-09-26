@@ -1,6 +1,6 @@
 # Mike's 'Balls
 
-![](https://github.com/Thelario/Mike-Balls/tree/main/Gifs/mikesBalls.gif)
+![](Gifs/mikesBalls.gif)
 
 Mike's Balls is a short, fun and fast-paced rogue-lite game in which players have to kill hordes of enemies by picking balls.
 
